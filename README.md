@@ -14,10 +14,10 @@ The **Blackmarket Firearm Management System** is a simple graphical user interfa
 - Save all changes to a CSV file.
 - About section providing project details.
 
+### Running the Project
+
 ```python
-print("Hello, world!")
-for i in range(10):
-    print(i)
+git clone https://github.com/MinOkkar/GUI-DIT102
 ```
 
 
