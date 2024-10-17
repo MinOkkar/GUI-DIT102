@@ -19,6 +19,15 @@ The **Blackmarket Firearm Management System** is a simple graphical user interfa
 ```python
 git clone https://github.com/MinOkkar/GUI-DIT102
 ```
+run assigment.py
+```python
+python GUI/assigment.py
+```
 
+### Future Improvements
+. None(I am lazy af)
+
+
+Created by Edward for the DIT-102 project. Date: July 31, 2024
 
 
